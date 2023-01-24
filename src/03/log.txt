@@ -1,0 +1,121 @@
+Script started at 2023-01-21 12:05:00
+/lib64/azzzz_210123/ 21.01.2023
+/lib64/azzzz_210123/azzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib64/azzzz_210123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_210123.az 21.01.2023 50Mb
+/lib/azzzzz_210123/ 21.01.2023
+/lib/azzzzz_210123/azzzz_210123.az 21.01.2023 50Mb
+Script finished at 2023-01-21 12:05:00
+Script wore executed for 6 secconds
+Script started at 2023-01-23 18:08:45
+/srv/azzzz_230123/ 23.01.2023
+/srv/azzzz_230123/azzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/srv/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/var/azzzzz_230123/ 23.01.2023
+/var/azzzzz_230123/azzzz_230123.az 23.01.2023 50Mb
+/var/azzzzz_230123/azzzzz_230123.az 23.01.2023 50Mb
+Script finished at 2023-01-23 18:08:48
+Script wore executed for 35 secconds
+Script started at 2023-01-23 18:23:28
+/mnt/azzzz_230123/ 23.01.2023
+/mnt/azzzz_230123/azzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+/mnt/azzzz_230123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_230123.az 23.01.2023 50Mb
+Script finished at 2023-01-23 18:23:29
+Script wore executed for 4 secconds

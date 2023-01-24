@@ -1,0 +1,7 @@
+/home
+/friends
+/index
+/feed
+/photos
+/support
+/nginx

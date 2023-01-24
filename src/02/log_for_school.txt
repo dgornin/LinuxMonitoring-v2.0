@@ -1,0 +1,81 @@
+Script started at 2023-01-20 15:38:31
+/boot/azzzz_200123/ 20.01.2023
+/boot/azzzz_200123/azzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/boot/azzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/ 20.01.2023
+/lib64/azzzzz_200123/azzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+/lib64/azzzzz_200123/azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_200123.az 20.01.2023 40Mb
+Script finished at 2023-01-20 15:38:33
+Script wore executed for 26 secconds
+Script started at 2023-01-20 15:40:10
+/mnt/azzzz_200123/ 20.01.2023
+/mnt/azzzz_200123/azzzz_200123.az 20.01.2023 40Mb
+/mnt/azzzz_200123/azzzzz_200123.az 20.01.2023 40Mb
+/mnt/azzzz_200123/azzzzzz_200123.az 20.01.2023 40Mb
+/mnt/azzzz_200123/azzzzzzz_200123.az 20.01.2023 40Mb
+/mnt/azzzz_200123/azzzzzzzz_200123.az 20.01.2023 40Mb
+/mnt/azzzz_200123/azzzzzzzzz_200123.az 20.01.2023 40Mb
+Script finished at 2023-01-20 15:40:10
+Script wore executed for 1 secconds
